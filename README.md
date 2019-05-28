@@ -8,7 +8,7 @@
 
 ### Vue
 
-[vue 双向绑定](./_posts/2019-05-13-two-way-binding.md)
+1. [vue 双向绑定](./_posts/2019-05-13-two-way-binding.md)
 
 ### JavaScript
 
@@ -24,5 +24,5 @@
 
 ### Basic
 
-1. [tcp & udp](./_posts/web-basic/2019-05-24-tcp-and-udp.md)
-2. [dns](./_posts/web-basic/2019-05-28-dns.md)
+1. [TCP & UDP](./_posts/web-basic/2019-05-24-tcp-and-udp.md)
+2. [DNS](./_posts/web-basic/2019-05-28-dns.md)
