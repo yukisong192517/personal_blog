@@ -25,3 +25,4 @@
 ### Basic
 
 1. [tcp & udp](./_posts/web-basic/2019-05-24-tcp-and-udp.md)
+2. [dns](./_posts/web-basic/2019-05-28-dns.md)
